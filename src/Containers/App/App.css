@@ -1,0 +1,27 @@
+
+.MuiGrid-container {
+  width: 100%;
+  position: absolute;
+  height: 100%;
+}
+
+.leaflet-top {
+  top:unset!important;
+  left: unset!important;
+  bottom: 25px!important;
+  right: 25px!important;
+}
+
+.leaflet-touch .leaflet-control-layers, .leaflet-touch .leaflet-bar {
+  border: none!important;
+}
+
+.leaflet-control-zoom a {
+
+  width: 40px!important;
+  height: 40px!important;
+  border-radius: 50%!important;
+  box-shadow: 0 0 30px rgba(0,0,0,0.1);
+  margin: 10px;
+  line-height: 40px!important;
+}

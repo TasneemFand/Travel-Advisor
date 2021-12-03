@@ -1,0 +1,2 @@
+export {Getlocations} from './ActionCreator';
+

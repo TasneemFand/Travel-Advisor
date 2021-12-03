@@ -1,0 +1,24 @@
+
+label + .MuiInput-formControl{
+    color: rgba(62, 62, 62, 0.87) !important;
+}
+
+.titlelist {
+    font-size: 30px !important;
+    color: rgba(62, 62, 62, 0.87);
+    margin-bottom: 20px !important;
+}
+
+.MuiMenuItem-root{
+    color: rgba(62, 62, 62, 0.87) !important;
+   
+}
+.MuiFormLabel-root.Mui-focused {
+    color: rgb(51,103,214) !important;
+    
+}
+
+.MuiInput-underline:after{
+    border-bottom: 2px solid rgb(51,103,214) !important;
+}
+
