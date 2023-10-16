@@ -7,3 +7,6 @@ An advanced Travel Companion Application using Mapbox maps that work in Leaflet 
 ### links
 [RapidAPI](https://rapidapi.com/hub?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
 [Travel Advisor API](https://rapidapi.com/apidojo/api/travel-advisor?utm_source=youtube.com/JavaScriptMastery&utm_medium=DevRel&utm_campaign=DevRel)
+
+![Uploading travelAdvisor.png…]()
+
